@@ -12,7 +12,7 @@ William Shakespeare, Hamlet
 
 Thomas Hardy, Far from the Madding Crowd
 
-## **Text Preprocessing **
+## **Text Preprocessing**
 
 ### **Segmentation**
 Text segmentation is the process of dividing written text into meaningful units, such as words, sentences, or topics. The term applies both to mental processes used by humans when reading text, and to artificial processes implemented in computers, which are the subject of natural language processing. The problem is non-trivial, because while some written languages have explicit word boundary markers, such as the word spaces of written English and the distinctive initial, medial and final letter shapes of Arabic, such signals are sometimes ambiguous and not present in all written languages.
